@@ -1,3 +1,5 @@
-# Hello world
+# Benvinguts
 
-![Pathetic](https://github.com/Trilogi-Developers/.github/blob/main/thumb.png?raw=true)
+Tots els repos en privat siusplau, gracies, sigeu lliures de pujar i mantenir codi.
+
+:heart:
